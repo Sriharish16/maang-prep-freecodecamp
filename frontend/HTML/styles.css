@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+}
+
+.nav {
+  justify-content: space-between;
+  display: flex;
+}
+
+.a {
+  align-items: center;
+}
+
+.header {
+  background-color: #ffffff;
+  height: 10%;
+  justify-content: space-around;
+  display: flex;
+}
